@@ -1,0 +1,103 @@
+/* Add your styles here */
+
+img {
+    max-width: 115%;
+}
+
+h1 {
+    font-style: oblique;
+    color: white;
+}
+
+h3 {
+    font-style: italic;
+}
+
+li {
+    margin-bottom: 2rem;
+}
+
+.bloqueinformativo {
+    width: 100%;
+}
+
+.row {
+    display: flex;
+}
+
+.informacion {
+    margin-left: 2rem;
+    width: 45%;
+}
+
+.informacion h2 {
+    font-style: oblique;
+    color: #18149D;
+}
+
+.informacion a {
+    text-decoration: none;
+    color: green;
+}
+
+.elementos {
+    width: 45%;
+    margin-left: 3rem;
+}
+
+.elementos h2 {
+    text-indent: 6.5%;
+    font-style: oblique;
+    color: #18149D;
+}
+
+.imagenPrincipal img {
+    max-width: 120%;
+    height: 16.6rem;
+}
+
+.fil1col1 {
+    background-color: #808080;
+}
+
+.fil1col2 {
+    background-color: #424949;
+    color: white;
+}
+
+.fil2col2 {
+    background-color: black;
+}
+
+.logo1 {
+    background-color: #82e0aa;
+}
+
+.logo2 {
+    background-color: #3993E6;
+}
+
+.logo3 {
+    background-color: #AF7AC5;
+}
+
+.logo4 {
+    background-color: #e67e22;
+}
+
+.logo5 {
+    background-color: #e74c3c;
+}
+
+.logo6 {
+    background-color: #F4D03F;
+}
+
+.oscuro {
+    background-color: #E5E8E8;
+}
+
+.efectosDeLista li {
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
